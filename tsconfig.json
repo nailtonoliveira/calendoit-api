@@ -10,5 +10,9 @@
     "strict": true,
     "skipLibCheck": true,
     "allowJs": true
-  }
+  },
+  "exclude": [
+    "./jest.config.ts",
+    "./coverage"
+  ]
 }
